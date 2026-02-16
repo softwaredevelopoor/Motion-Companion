@@ -1,4 +1,8 @@
-# Motion Companion 🤖
+# Motion Companion 
+
+![image (35)](https://github.com/user-attachments/assets/fabf69d5-439d-4f42-8cd8-a9a401078e33)
+
+X: https://x.com/MotionCompanion
 
 **Autonomous AI Agent Treasury Management on Solana**
 
