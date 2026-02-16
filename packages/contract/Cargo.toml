@@ -1,0 +1,11 @@
+[workspace]
+members = [".", "examples"]
+resolver = "2"
+
+[package]
+name = "motion-companion"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+default = []
